@@ -11,5 +11,9 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "http://status.tcilay.fun/"
+  },{
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.tcilay.fun/"
   }
 ]
