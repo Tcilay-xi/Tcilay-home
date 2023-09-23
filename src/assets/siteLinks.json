@@ -4,14 +4,6 @@
     "name": "博客",
     "link": "http://blog.tcilay.fun/"
   },{
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "http://cloud.tcilay.fun/"
-  },{
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "http://status.tcilay.fun/"
-  },{
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.tcilay.fun/"
