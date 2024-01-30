@@ -1,0 +1,19 @@
+{
+  "name": "@vicons/fa",
+  "version": "0.12.0",
+  "description": "Vue3 SVG icon components integrated from [`font-awesome`](https://github.com/FortAwesome/Font-Awesome)",
+  "keywords": [
+    "icon",
+    "vue-next",
+    "vue",
+    "svg",
+    null
+  ],
+  "author": "07akioni",
+  "license": "CC BY 4.0",
+  "dependencies": {},
+  "sideEffects": false,
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "types": "es/index.d.ts"
+}
