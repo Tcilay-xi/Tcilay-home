@@ -1,0 +1,17 @@
+[{
+  "name": "Github",
+  "icon": "/images/icon/github.png",
+  "tip": "去 Github 看看",
+  "url": "https://github.com/Tcilay-xi"
+}, {
+  "name": "Email",
+  "icon": "/images/icon/email.png",
+  "tip": "来封 Email ~",
+  "url": "mailto:admin@tcilay.fun"
+}, {
+  "name": "Telegram",
+  "icon": "/images/icon/telegram.png",
+  "tip": "你懂的 ~",
+  "url": "https://t.me/tcilay_xi"
+}
+]
